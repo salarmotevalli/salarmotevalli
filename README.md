@@ -1,5 +1,15 @@
+## Hi there, I'm Salar Motevalli 👋
 
-<h2>Hi, i'm salar and i'm backend developer, skilled in php</h2>
+I'm a PHP developer with 2 years of experience, currently learning Rust and looking for remote job opportunities. I enjoy building web applications and exploring new technologies. 
 
-<p> <a href="https://www.linkedin.com/in/salar-motevalli-bb2592229"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></p>
+### 🌱 I’m currently learning
+- Rust
 
+### 📫 How to reach me
+- salar.mo.ro@gmail.com
+
+### 🏆 GitHub Stats
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=[YourUserName]&show_icons=true&theme=radical)]
+
+### 🚀 Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUserName]&layout=compact)]
