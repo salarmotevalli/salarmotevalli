@@ -1,6 +1,5 @@
 ## Hi there, I'm Salar Motevalli 👋
 
-I'm a PHP developer with 2 years of experience, currently learning Rust and looking for remote job opportunities. I enjoy building web applications and exploring new technologies. 
 
 ### 🌱 I’m currently learning
 - RUST 
